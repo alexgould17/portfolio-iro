@@ -19,23 +19,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "alexgould17@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble: "joeykirk"
-  facebook: "joeykirk"
+  dribbble: 
+  facebook: 
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "alexgould17"
   google_plus:
-  instagram: "joeykirk"
-  linkedin:  # Full URL
+  instagram: "alexgould17"
+  linkedin: "https://www.linkedin.com/in/alexgould17" # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "joeykirk"
+  twitter: 
   wordpress:
   youtube:
 
