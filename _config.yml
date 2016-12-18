@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/portfolio-iro/" # the subpath of your site, e.g. /blog/
 url: "http://alexgould17.github.io/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Full-Stack Developer in the Bay Area</h1>
+     <h1>Full-Stack Developer in the Bay Area<br/>***UNDER CONSTRUCTION***</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
